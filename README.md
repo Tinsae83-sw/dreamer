@@ -1,4 +1,6 @@
 # Welcome to Remix!
+<img width="3799" height="1660" alt="Screenshot 2025-07-12 091443" src="https://github.com/user-attachments/assets/71e07f87-7ab2-4cc3-bf04-68dacefd30b3" />
+<img width="3834" height="1704" alt="Screenshot 2025-07-12 091502" src="https://github.com/user-attachments/assets/3d627251-434d-4f56-8809-e02ff094d243" />
 
 - 📖 [Remix docs](https://remix.run/docs)
 
